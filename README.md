@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VxbeWz
+- 👋 Hi, I’m @VxbeSec
 - 👀 I’m interested in Progmramming and Cyber security
 - 🐍 I use python most of the time but javascript if needed
 <!---
